@@ -1,5 +1,5 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aodp_sweet.mk
+    $(LOCAL_DIR)/aosp_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
     aosp_sweet-eng \
