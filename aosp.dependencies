@@ -7,4 +7,8 @@
     "repository": "kernel_xiaomi_sm1650",
     "target_path": "kernel/xiaomi/sm1650"
   }
+    {
+    "repository": "hardware_qcom-caf_common",
+    "target_path": "hardware/qcom-caf/common"
+  }
 ]
