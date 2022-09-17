@@ -17,6 +17,7 @@ imports: [
         "hardware/google/interfaces",
         "hardware/google/pixel",
         "hardware/xiaomi",
+        "hardware/qcom-caf/common/fwk-detect",
     ],
 }
 
